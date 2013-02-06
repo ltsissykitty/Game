@@ -1,0 +1,2 @@
+name = trooper
+move_range = 4

@@ -1,0 +1,3 @@
+name = water
+symbol = W
+walkable = false
